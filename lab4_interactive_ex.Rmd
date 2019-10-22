@@ -44,6 +44,14 @@ ggplotly(iris_graph)
 
 ```
 
+### Make an interactive table with DT
+
+```{r}
+
+datatable(msleep)
+
+```
+
 
 
 
